@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @lavanyasaxena
-- 👀 I’m interested in programming and development
-- 🌱 I’m currently learning full stack web development
-- I always look for better opportunities
+- Hi, I’m @lavanyasaxena
+- I have a deep passion in artificial intelligence.
+- I also have a knowledge about data structures and algorithms.
+- I’m a data analyst.
+- Always open for better opportunities! :)
 
 <!---
 lavanyasaxena/lavanyasaxena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
